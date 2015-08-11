@@ -11,5 +11,12 @@
   "bugs": {
     "url": "https://github.com/boygirl/v4/issues"
   },
-  "homepage": "https://github.com/boygirl/v4"
+  "homepage": "https://github.com/boygirl/v4",
+  "scripts": {
+  },
+  "dependencies": {
+    "lodash": "^3.10.0"
+  },
+  "devDependencies": {
+  }
 }
